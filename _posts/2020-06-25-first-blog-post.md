@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "First Blog Post"
+title: "First-Blog-Post"
+date: 2020-06-25
 ---
 
 Quick draft
